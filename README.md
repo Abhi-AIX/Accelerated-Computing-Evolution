@@ -20,6 +20,7 @@ I explore how major tech companies — **NVIDIA, AMD, Apple, Google, Meta, Tesla
 - Economic & industry impact
 - Future outlook and challenges
 
-## 📢 Also Published On
+## 📢 Also Published On Medium
 
--  [Read on Medium]([https://medium.com/your-article-link](https://medium.com/@aibhi.dev/the-evolution-of-accelerated-computing-how-nvidia-amd-apple-google-others-are-powering-the-469d437c91ce))  
+-  [Read on Medium]
+-  ([https://medium.com/your-article-link](https://medium.com/@aibhi.dev/the-evolution-of-accelerated-computing-how-nvidia-amd-apple-google-others-are-powering-the-469d437c91ce))  
